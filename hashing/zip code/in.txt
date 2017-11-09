@@ -1,0 +1,224 @@
+Abbottabad	
+22010
+Attock	
+43600
+Badin	
+72220
+Bagh (A.J.K)	
+12500
+Bahawalnagar	
+62300
+Bahawalpur	
+63100
+Bannu	
+28100
+Balakot	
+21230
+Bhakkar	
+30000
+Ckaklala Cantt	
+46200
+Chakwal	
+48800
+Charsadda	
+24420
+Chitral	
+17200
+Dera Ghazi Khan	
+32200
+Dera Ismail Khan	
+29050
+Dir	
+18000
+Faisalabad	
+38000
+Fateh Jang	
+43350
+Gilgit	
+15100
+Gujar Khan	
+47850
+Gujranwala	
+52250
+Gujrat	
+50700
+Gwader	
+91200
+Haripur	
+22620
+Hasan Abdal	
+43730
+Hyderabad G.P.O.	
+71000
+Islamabad G.P.O.	
+44000
+Jacobabad	
+79000
+Jhang	
+35200
+Jang Shahi	
+73110
+Jhelum	
+49600
+Kalat	
+88300
+Karachi Al-Haidry	
+74700
+Karachi Defence	
+75500
+Karachi G.P.O.	
+74200
+Karachi F.B. Area	
+75950
+Karachi City G.P.O.	
+74000
+Karachi Gulshan-e-Iqbal	
+75300
+Karachi Korangi	
+74900
+Karachi New Town	
+74800
+Karachi PECHS (Block # 6)	
+75400
+Karachi Nazimabad G.P.O.	
+74600
+Karachi Saddar G.P.O.	
+74400
+Karachi Cantt	
+75530
+Karachi Clifton	
+75600
+Karak	
+27200
+Kasur	
+55050
+Khanewal	
+58150
+Kanpur	
+22650
+Khairpur	
+66020
+Khushab	
+41000
+Khuzdar	
+89100
+Kohat	
+26000
+Kotri	
+76000
+Kamo Ke	
+52470
+Kalar Kahar	
+48530
+Lahore G.P.O.	
+54000
+Lahore Gulberg	
+54660
+Lahore Cantt	
+54810
+Lahoer Model Town	
+54700
+Lahore Ferozepure road	
+54600
+Lahore Awan Colony	
+54780
+Lahore Iqbal Town	
+54570
+Lahore Chah Miran	
+54900
+Lahore Walton	
+54750
+LahoreIsmail Nagar	
+54760
+LahoreBaghban- Pura	
+54920
+Lahore Town Ship	
+54770
+Lahore Shahdara- Bagh	
+54950
+Lahore Mughal Pura	
+54840
+Lahore Multan road	
+54500
+Punjab University New Campus	
+54590
+Larkana	
+77150
+Leiah	
+31200
+Mandi Bahauddin	
+50400
+Mansehra	
+21300
+Mardan	
+23200
+Mianwali	
+42200
+Mirpur (A.J.K.)	
+10250
+Mirpur Khas	
+69000
+Multan	
+60000
+Murree	
+47150
+Muzaffarabad (A.J.K.)	
+13100
+Narowal	
+51800
+Nawab Shah	
+67450
+Nowshera	
+24100
+Okara	
+56300
+Parachinar	
+26300
+Peshawar	
+25000
+Qila Sheikhupura	
+39350
+Quetta G.P.O.	
+87300
+Rahim Yar Khan	
+64200
+Rawalkot (A.J.K)	
+12350
+Rawalpindi G.P.O.	
+46000
+Risalpur	
+24080
+Sahiwal	
+57000
+Saidu Sharif	
+19200
+Sanghar	
+68100
+Sargodha	
+40100
+Sialkot	
+51310
+Sibi	
+82000
+Sujawal	
+37050
+Sawabi G.P.O	
+23430
+Sukkur	
+65200
+Talagang	
+48100
+Taxila	
+47080
+Toba Tek Singh	
+36000
+Turbat	
+92600
+Vehari	
+61100
+Wah	
+47000
+Wah Cantt	
+47040
+Wazir Abad	
+52000
